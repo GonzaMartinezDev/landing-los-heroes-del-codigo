@@ -1,0 +1,7 @@
+# Ilustración del consejo
+
+Recurso generado con la herramienta integrada ImageGen, usando las cuatro imágenes de la conversación como referencias de dirección artística. No se usaron como logotipos o marcas comerciales.
+
+Prompt: Use case: stylized-concept. Asset type: cinematic wide website hero illustration, landscape 1536x1024 or wider. The four attached images are visual STYLE and CHARACTER REFERENCES, not edit targets. Create an original scene inspired by their medieval fantasy software consulting fellowship: a regal white goat wizard with sweeping dark horns wearing a gold crown and intricately embroidered midnight-blue robes, surrounded by human paladins and a violet-haired female technomage. They gather at a wooden round table with a subtle blue glowing miniature castle architecture and an open laptop, in a cavernous medieval stone hall with candles, tall arched windows, navy banners and warm gold light. Focus the fellowship in the RIGHT TWO THIRDS, keep the LEFT THIRD very dark and atmospheric with shadowy stone architecture for website text overlay. Cinematic realistic fantasy photography, exquisite material detail, warm amber highlights, deep ink navy shadows, very restrained purple magic. Wide establishing shot, medium distance. Absolutely NO text, NO lettering, NO logos, NO watermarks, NO brand names, NO UI. This artwork will support a site called LOS HÉROES DEL CÓDIGO.
+
+Archivos finales: `consejo-1600.webp`, `consejo-960.webp` y `og-cover.jpg`.
